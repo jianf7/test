@@ -9,6 +9,7 @@ f2<-f2@fit$coef
 data_dcc=data_2[,c(6,8)]
 
 # create vectors and matrices of starting values
+#dasjklflasdjfasd
 
 a=c(f1[1],f2[1])
 a
